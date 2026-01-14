@@ -1,6 +1,6 @@
-# 🎨 SUDDA: Dynamic Portfolio CMS
+# 🎨 Dynamic Portfolio CMS
 
-**SUDDA** is a fully dynamic personal portfolio website featuring a custom-built **Content Management System (CMS)**. Unlike static portfolios, this application allows the user to update their profile details, manage project showcases, and edit contact information in real-time through a secure Admin Dashboard.
+This is a fully dynamic personal portfolio website featuring a custom-built **Content Management System (CMS)**. Unlike static portfolios, this application allows the user to update their profile details, manage project showcases, and edit contact information in real-time through a secure Admin Dashboard.
 
 ### 🖥️ Project Overview
 This project serves as a digital identity hub for creative professionals. It bridges the gap between a visually stunning frontend and a functional backend, enabling users to manage their online presence without writing a single line of code.
